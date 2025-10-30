@@ -1,7 +1,7 @@
 # Docker
 ---
 Docker es una plataforma que permite a los desarrolladores crear, empaquetar y ejecutar aplicaciones en *contenedores*.
-- GitHub : [@ainhoafdez](https://github.com/ainhoafdez)
+- GitHub : [@guilledvv](https://github.com/guilledvv)
 
 ## Instalación de Docker
 
